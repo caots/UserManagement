@@ -23,9 +23,4 @@ public class MD5 {
         }
     }
 
-    public static void main(String[] args) {
-
-        String pass1 = "12345";
-        System.out.println(encode(pass1));
-    }
 }

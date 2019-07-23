@@ -118,6 +118,20 @@
             <artifactId>spring-boot-starter-mail</artifactId>
         </dependency>
 
+        <!--______________sms_______________________-->
+        <dependency>
+            <groupId>com.twilio.sdk</groupId>
+            <artifactId>twilio</artifactId>
+            <version>7.40.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.nexmo/client -->
+        <dependency>
+            <groupId>com.nexmo</groupId>
+            <artifactId>client</artifactId>
+            <version>4.3.0</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
