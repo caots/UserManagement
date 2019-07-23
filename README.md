@@ -5,6 +5,6 @@
   + Facebook : Spring Social
   + Google : Spring Social
   + Linkedin : Spring Social
-  + SMS : SMS API 
+  + SMS : SMS API (Twilio + Nexmo)
   + Token : Send Gmail + code
 
