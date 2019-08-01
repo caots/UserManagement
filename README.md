@@ -1,4 +1,4 @@
-# ========================================= UserManagement ================================================
+# UserManagement 
 
 "Hệ thống quản lý User"
 - Signin / Signout
@@ -9,7 +9,7 @@
   + SMS : SMS API (Twilio + Nexmo)
   + Token : Send Gmail + code
   
-# ====================================== Document Spring Security =========================================
+# Document Spring Security 
 
 + Authentication (xác thực) : là tiến trình thiết lập một principal. Principal có thể hiểu là một người, hoặc một thiết bị,
   hoặc một hệ thống nào đó có thể thực hiện một hành động trong ứng dụng của bạn.
@@ -47,7 +47,7 @@
 
 + 
 
-# ====================================== Json Web Token =========================================
+# Json Web Token 
 + JSON Web Token (JWT) là 1 tiêu chuẩn mở (RFC 7519) định nghĩa cách thức truyền tin an toàn giữa các thành viên bằng 1 đối tượng JSON.
   Thông tin này có thể được xác thực và đánh dấu tin cậy nhờ vào "chữ ký" của nó. Phần chữ ký của JWT sẽ được mã hóa lại bằng HMAC hoặc RSA.	
 
